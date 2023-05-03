@@ -1,0 +1,5 @@
+r1=float(input("enter r1 "))
+r2=float(input("enter r2 "))
+h=float(input("enter h "))
+s=3.14*(r1**2+h*(r1+r2)+r2**2)
+print(s)
